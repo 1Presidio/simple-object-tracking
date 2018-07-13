@@ -11,7 +11,9 @@ approach and most certainly is not robust for an actual self-driving car. Finall
 be passed on to the pipeline to be matched and paired. This can then be sent to the motion and planning control section of a car
 where it can decide what to do with the data.
 
-** Quickstart
+Quickstart
+======
+
 1.) Make sure you have the right dependencies (MacOS or Linux). The code was built and run on a MacOS and should work on Linux 
 or Unix based OSes.
 
